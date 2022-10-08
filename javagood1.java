@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class HelloWorld {
+class HelloWorld {//god回复感觉还是地方
     public static void main(String[] args) {
         //有一个数组 {1， 2， 3， 4， 5}， 可以将该数组进行缩减，提示用户是否继续缩减，
         // 每次缩减最后那个元素。当只剩 下最后一个元素，提示，不能再缩减。
